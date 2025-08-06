@@ -65,7 +65,5 @@ This is a **React Native mobile app** made for medical agents who **collect diag
 ![Issue](./screenshots/issue.png)
 
 
----
 
-## 🗂️ Folder Structure
 

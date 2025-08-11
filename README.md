@@ -50,6 +50,53 @@ This is a **React Native mobile app** made for medical agents who **collect diag
 
 ---
 
+# 🧠 Thought Process Behind the Sample Collection Agent App
+
+## **User Profile**
+- Target users are **medical agents** who may not be highly technical.  
+- Often work in areas with **patchy or no internet connectivity**.  
+- The app must be **intuitive**, **minimal**, and **fast** to use.  
+
+---
+
+## **Primary Goals**
+- ✅ Ensure **fast task completion**.  
+- ✅ Minimize **clicks/taps** required to update statuses.  
+- ✅ Allow **offline operation** with automatic sync when online.  
+
+---
+
+## **Core Features Selection**
+- **Home Screen** → Quick overview of all pickups for the day, avoiding multiple navigation steps.  
+- **Status Updates** → Mark samples as *Collected*, *In Transit*, or *Delivered*, replacing paper logs.  
+- **Route Map** → Optimize travel to save **time & fuel**.  
+- **Report Issue** → Fast escalation when problems occur (e.g., patient unavailable).  
+
+---
+
+## **Connectivity Considerations**
+- Store data **locally** using:
+  - **SQLite**
+  - **AsyncStorage** (for smaller temporary data)  
+- Implement **background sync** to update the server when internet becomes available.  
+
+---
+
+## **Scalability & Future-Proofing**
+- 🔄 Future integration with **Hospital/LIS (Lab Information Systems)**.  
+- 📷 Add **barcode scanning** for sample verification.  
+- 📎 Enable **photo & document uploads** for proof of collection or issue reporting.  
+
+---
+
+## **Design Philosophy**
+- **Large, clear buttons** for quick access during fieldwork.  
+- **Minimal clutter** → Only essential information per screen.  
+- **Accessible UI** → Usable in bright outdoor conditions.  
+
+---
+
+
 ## 🖼️ Screenshots
 
 ### Home Screen

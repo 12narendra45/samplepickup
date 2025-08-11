@@ -99,17 +99,15 @@ This is a **React Native mobile app** made for medical agents who **collect diag
 
 ## 🖼️ Screenshots
 
-### Home Screen
-![Home](./screenshots/home.png)
+<p align="center">
+  <img src="./screenshots/home.png" alt="Home" width="45%" />
+  <img src="./screenshots/details.png" alt="Pickup Details" width="45%" />
+</p>
 
-### Pickup Details Screen
-![Details](./screenshots/details.png)
-
-### Route Map Screen
-![Map](./screenshots/map.png)
-
-### Report Issue Screen
-![Issue](./screenshots/report.png)
+<p align="center">
+  <img src="./screenshots/map.png" alt="Route Map" width="45%" />
+  <img src="./screenshots/report.png" alt="Report Issue" width="45%" />
+</p>
 
 
 

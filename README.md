@@ -109,7 +109,7 @@ This is a **React Native mobile app** made for medical agents who **collect diag
 ![Map](./screenshots/map.png)
 
 ### Report Issue Screen
-![Issue](./screenshots/issue.png)
+![Issue](./screenshots/report.png)
 
 
 
